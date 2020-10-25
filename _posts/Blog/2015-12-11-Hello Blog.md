@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-12-11 22:00:00
-author:     "ShenBao"
+author:     "worldguitar"
 catalog: true
 tags:
     - 生活
@@ -13,12 +13,12 @@ tags:
 
 ## 正文
 
-以后这里就是 ShenBao 的 Blog。
+以后这里就是 worldguitar 的 Blog。
 
-从现在起 ShenBao 将会在这里记录点滴。
+从现在起 worldguitar 将会在这里记录点滴。
 
 
-之前因为太懒没有折腾，所以之前就是简单的做个记录罢了！（ps：[原博客](https://shenbao.github.io/blog)）。
+之前因为太懒没有折腾，所以之前就是简单的做个记录罢了！
 
 
 
