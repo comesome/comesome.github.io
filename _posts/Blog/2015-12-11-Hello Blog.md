@@ -3,7 +3,7 @@ layout:     post
 title:      "Hello Blog"
 subtitle:   " \"Hello World, Hello Blog\""
 date:       2015-12-11 22:00:00
-author:     "worldguitar"
+author:     "bright rain"
 catalog: true
 tags:
     - 生活
@@ -13,9 +13,9 @@ tags:
 
 ## 正文
 
-以后这里就是 worldguitar 的 Blog。
+以后这里就是 bright rain 的 Blog。
 
-从现在起 worldguitar 将会在这里记录点滴。
+从现在起 bright rain 将会在这里记录点滴。
 
 
 之前因为太懒没有折腾，所以之前就是简单的做个记录罢了！
