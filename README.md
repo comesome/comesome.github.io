@@ -1,17 +1,17 @@
 
-# ShenBao Blog
+#   bright rain Blog 
 
-### [博客] (https://shenbao.github.io)
+### [博客] (https://brightrain.github.io)
 
-### [开发笔记] (https://shenbao.github.io/shenbao-notes)
+### [开发笔记] (https://brightrain.github.io/shenbao-notes)
 
-### [API文档] (https://shenbao.github.io/blog)
+### [API文档] (https://brightrain.github.io/blog)
 
-### [开发总结] (https://shenbao.github.io/ishehui)
+### [开发总结] (https://brightrain.github.io/ishehui)
 
 <br/>
 
-Created by ShenBao on 2016.03.21
+Created by brightrain on 2016.03.21
 
 <br/>
 
